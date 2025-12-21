@@ -1,0 +1,33 @@
+{
+  "tokens": [
+    "8311488815:AAGZlD-zZZQdFiVnY3hfUevW0CBlR-_4Tmw"
+  ],
+  "system_status": "ON",
+  "last_updated": "2024-12-21T10:30:00.000Z",
+  "updated_by": "system_bot",
+  "master_token": "8311488815:AAGZlD-zZZQdFiVnY3hfUevW0CBlR-_4Tmw",
+  "allowed_ips": [],
+  "maintenance_mode": false,
+  "features": {
+    "ddos": true,
+    "ai": true,
+    "whatsapp": true,
+    "bugs": true
+  },
+  "settings": {
+    "cooldown": 5,
+    "max_premium_users": 100,
+    "max_admins": 10
+  },
+  "statistics": {
+    "total_bots": 4,
+    "active_bots": 4,
+    "total_commands": 1250,
+    "last_restart": "2024-12-21T10:00:00.000Z"
+  },
+  "notifications": {
+    "system_off_message": "🔴 SISTEM SEDANG OFFLINE\n\nSaat ini sistem sedang dalam mode maintenance atau update. Hanya token master yang dapat digunakan.\n\nSilakan coba lagi nanti.",
+    "system_on_message": "✅ SISTEM KEMBALI ONLINE\n\nSemua fitur sekarang dapat digunakan kembali.",
+    "contact_admin": "@AlwaysXynnn"
+  }
+}
